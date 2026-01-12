@@ -1026,7 +1026,7 @@ h3 {
         .btn-group span, .text-box i, .tab-group li a.active p, .text-box2 .tool span, .modal-content2 .close-box .close-btn, .contact-text h3:hover {
             color: #fafafa;
         }
-        h1, .hello-text h3 {
+        h1, .hello-text h3, .contact-text p, .contact-con2 p, .contact-con2 a, .contact-con p {
             font-size: 1em;
         }
         h2 {
