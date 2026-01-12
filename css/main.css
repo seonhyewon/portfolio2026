@@ -92,7 +92,7 @@ body {
     font-weight: 200;
     font-style: normal; 
 
-    background-color: #d9d9d9;
+    background-color: #dedede;
     color: #383A36;
 }
 a {
@@ -247,7 +247,7 @@ p {
 
 .table-head {
     height: 40px;
-    background: #D9d9d9;
+    background: #dedede;
 }
 .table-head th {
     border-right: 2px solid #D6CEAF;
@@ -341,7 +341,7 @@ p {
 .btn2 {
     font-size: 1.2em;
     line-height: 1.2em;
-    background: #D9d9d9;
+    background: #dedede;
 }
 .btn:hover {
     
@@ -789,7 +789,7 @@ h3 {
         font-weight: 400;
         transition: .6s ease-in-out;
         padding: 10px;
-        background: #D9d9d9;
+        background: #dedede;
         box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.12);
     }
     .contact-con2 a:hover {
