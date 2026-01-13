@@ -882,6 +882,15 @@ h3 {
         .contact-con2 p, .contact-con2 a {
             font-size: 1.2em;
         }
+        body, .table-head, .btn2, .contact-con2 a {
+            background-color: #f5f5f5;
+        }
+        .panel-box, .design-box article, .modal-content, .tab-group li a {
+            background: #fafafa;
+        }
+        .btn-group span, .text-box i, .tab-group li a.active p, .text-box2 .tool span, .modal-content2 .close-box .close-btn, .contact-text h3:hover {
+            color: #fafafa;
+        }
     }
     @media screen and (max-width: 760px){
         .contact-box {
@@ -1017,15 +1026,7 @@ h3 {
         .flip-btn span, .text-box2 p {
             font-size: 1em;
         }
-        body, .table-head, .btn2, .contact-con2 a {
-            background-color: #f5f5f5;
-        }
-        .panel-box, .design-box article, .modal-content, .tab-group li a {
-            background: #fafafa;
-        }
-        .btn-group span, .text-box i, .tab-group li a.active p, .text-box2 .tool span, .modal-content2 .close-box .close-btn, .contact-text h3:hover {
-            color: #fafafa;
-        }
+        
         h1, .hello-text h3, .contact-text p, .contact-con2 p, .contact-con2 a, .contact-con p {
             font-size: 1em;
         }
